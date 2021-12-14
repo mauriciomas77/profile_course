@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;1,100&family=Roboto:wght@700&display=swap');
+
+
+/* IMPORTACIONES CUSTOM */
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/container.css');
+
+
+
+/* REGLAS GENERALES */
+body {
+    background-color: #E3D7FF;
+    font-family: 'Montserrat', sans-serif;
+}
