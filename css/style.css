@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Rowdies&display=swap');
+
+
+@import url("components/container.css");
+@import url("components/footer.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/avatar.css");
+@import url("components/card.css");
+@import url("components/shadow.css");
+
+body {
+  background-color: #EBF2FA;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: #679436;
+  font-size: 34px;
+  letter-spacing: 3px;
+  font-family: 'Rowdies', cursive;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+}

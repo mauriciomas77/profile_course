@@ -1,0 +1,15 @@
+.banner {
+  border-radius: 5px;
+  padding: 35px;
+  text-align: center;
+  margin: 25px 0px;
+  margin: 15px;
+}
+
+.banner h1 {
+  font-size: 26px;
+}
+
+.banner a {
+  margin-top: 10px;
+}
